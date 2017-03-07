@@ -1,4 +1,4 @@
-require 'rake'
+require 'bin/rake'
 
 
 
