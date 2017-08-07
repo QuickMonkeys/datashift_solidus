@@ -1,3 +1,4 @@
+require 'rake'
 Gem::Specification.new do |s|
   s.platform = Gem::Platform::RUBY
   s.name = 'datashift_solidus'#Helper::gem_name
